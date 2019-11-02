@@ -24,12 +24,11 @@
  - Role: Senior Software Engineer
  - Work experience: 7+ years
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2018
+- Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
+- SSLC, P.A.C.M School 75%, 2004
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
