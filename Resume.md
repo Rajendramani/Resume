@@ -67,9 +67,9 @@ This service logging system is used internally for tracking the bugs. For e.g. i
 
 It is an ADDON which helps the customer to see his Account Summary without his credentials but by one time registration. We handled 6 various cases during Registration.
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
-- ★★★ Java
+- ★★★ Java, J2EE, SQL, Java Script
 - ★★☆ C++、Python
 - ★★★ MySQL
 - ★★★ Redis
