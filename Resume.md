@@ -69,10 +69,10 @@ It is an ADDON which helps the customer to see his Account Summary without his c
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
-- ★★★ Java, J2EE, SQL, Java Script
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
+- ★★★ Java, J2EE
+- ★★☆ Spring MVC, Spring AOP, Spring Boot, Spring Data, Hibernate, Mybatis
+- ★★★ SQL,PL-SQL
+- ★★★ JMS, Activemq
+- ★★☆ Tomcat, Weblogic, Websphere, JBoss
+- ★☆☆ AngularJS
 - ★★☆ JavaScript
