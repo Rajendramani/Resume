@@ -1,54 +1,78 @@
+ <center>
+     <h1>Rajendramani R.</h1>
+     <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             +91 9944844991
+         </span>
+         ·
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             rajendramani.r@gmail.com
+         </span>
+         ·
+         <span>
+             <img src="assets/github-brands.svg" width="18px">
+             <a href="https://github.com/Rajendramani">Rajendramani</a>
+         </span>
+     </div>
+ </center>
 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
 
-<img src="./Resume.png">
+ - Male, born in 1989
+ - Role: Associate Consultant
+ - Work experience: 7+ years
 
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
 
-## 如何使用
+- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2018
+- Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
+- SSLC, P.A.C.M School 75%, 2004
 
-把该项目 Clone 之后，修改 [Resume.md](Resume.md) 文件即可。
+## <img src="assets/briefcase-solid.svg" width="30px"> Work experience
 
-## 导出 PDF
+- Working as Associate Consultant at Virtusa | Polaris.
+- Previously worked at Ebullitent Info Systems LLP.
 
-推荐使用 Typora 编辑器，先导出成 HTML，之后再使用浏览器打印成 PDF。
+## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
-因为 Markdown 格式不够紧凑，需要修改一些样式，否则会让原本只要一页的内容变成两三页。
+- **SAD (suspicious activity detection)**
 
-（1）将 resume.css 复制到 Typora 的主题文件夹
+  *Java/J2EE, SOAP Web services, Weblogic12C*
 
-![](assets/1.png)
+This system is used to analyse and detect the suspicious customer activities. At the time of customer login we took a following information e.g. device id, ip, geo locations etc., and these details need to be send to citi security systems team, where they already have a history of the customer’s geo location, device id, and IP. They will analyse the data and make a risk score. Based on the score we have to decide the following status (DENY, CHALLENGE, ALLOW). If the status is ALLOW, there will be no restriction. If it is DENY, we restrict the customer to proceed further. If it is CHALLENGE, we will allow the customer to proceed further process with some restriction
 
-（2）主题文件夹可以在“文件->偏好设置->主题文件夹“中打开
+- **VERIFICATION CHANGES**
 
-![](assets/2.png)
+  *Struts 1.x, EJB, SOAP Web services, Weblogic12C.*
 
-![](assets/3.png)
+As per BRD, modified the verification process and also added the new feature for offline banking system (PHONE BANKING). Levels of verification are grouped and converted as three level verification namely LOW RISK, HIGH RISK, and SUPER HIGH RISK. If a customer request us to transfer his funds, it should be done with high risk or super risk and should not be LOW RISK. OTP verification feature is added in SUPER HIGH RISK level
 
-（3）之后重启一下 Typora 编辑器，并在主题中选择 Resume。
+- **TNC Maintenance Tool(Content Management Tool)**
 
-![](assets/4.png)
+  *Java/J2EE, Struts 1.x, Struts2, Hibernate, Weblogic12C.*
 
-（4）使用以下方式导出成 HTML：文件 -> 导出 -> HTML
+TNC is a standalone tool. This tool help us to maintain static text in Citibank online. Here we migrated this tool from struts 1.x to struts 2.x. This tool is working based on two criteria (MAKER, AUTH). For every message/contents they maintain a unique TNC id. To make use of these contents in various files we require this TNC id. Because this Id plays a major role. If the MAKER create/modify the content, it will affect the table Work Bean. Once the Maker finish his changes, AUTH will have a control. AUTH is responsible to verify the presence of data in Master Bean. If the data already present, It automatically move that particular data to History Bean. Now it will do the new change of moving the data from Work Bean to Master Bean
 
-![](assets/5.png)
+- **SLS (service logging system)**
 
-（5）使用浏览器打开导出的 HTML 文件，并按“ctrl+P”打印，需要去除页眉页脚。
+  *Java/J2EE, Struts 1.x, EJB, Weblogic12C.*
 
-![](assets/6.png)
+This service logging system is used internally for tracking the bugs. For e.g. if citi phone officer finds the bug, he need to raise it as a bug and assign it to the respective teams. The team heads validates the bug and assign it to the respective resource, he is responsible for resolving and closing the bug. Based on the BRD, new features like grouping of teams, target date etc. are added
 
+- **SNAPSHOT**
 
+  *Java/J2EE, Weblogic12C*
 
-## 简历格式检查
+It is an ADDON which helps the customer to see his Account Summary without his credentials but by one time registration. We handled 6 various cases during Registration.
 
-https://cyc2018.github.io/Text-Typesetting/
+## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
-![](assets/check-resume.png)
-
-
-
-## 关于图标
-
-因为有些 Markdown 编辑器不支持 HTML 语法，例如 Typora，也就无法导入 fontawesome 样式表。无奈之下只能将本简历模版需要使用到的图标单独下载，放入 assets 目录下，并且在简历中以 `<img>` 标签来引用。我已经对这部分 HTML 代码进行了一定的排版，从而方便大家理解和修改。
-
-## License
-
-- [fontawesome](https://fontawesome.com/license)
+- ★★★ Java, J2EE
+- ★★☆ Spring MVC, Spring AOP, Spring Boot, Spring Data, Hibernate, Mybatis
+- ★★★ SQL,PL-SQL
+- ★★★ JMS, Activemq
+- ★★☆ Tomcat, Weblogic, Websphere, JBoss
+- ★☆☆ AngularJS
+- ★★☆ JavaScript
