@@ -5,12 +5,12 @@
              <img src="assets/phone-solid.svg" width="18px">
              +91 9944844991
          </span>
-         ·
+         |
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
              rajendramani.r@gmail.com
          </span>
-         ·
+         |
          <span>
              <img src="assets/github-brands.svg" width="18px">
              <a href="https://github.com/Rajendramani">Rajendramani</a>
