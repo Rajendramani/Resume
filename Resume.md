@@ -35,13 +35,37 @@
 - Working as Associate Consultant at Virtusa | Polaris.
 - Previously worked at Ebullitent Info Systems LLP.
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
-- **XXXX 项目**
+- **SAD (suspicious activity detection)**
 
-  *使用到的技术*
+  *Java/J2EE, SOAP Web services, Weblogic12C*
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+This system is used to analyse and detect the suspicious customer activities. At the time of customer login we took a following information e.g. device id, ip, geo locations etc., and these details need to be send to citi security systems team, where they already have a history of the customer’s geo location, device id, and IP. They will analyse the data and make a risk score. Based on the score we have to decide the following status (DENY, CHALLENGE, ALLOW). If the status is ALLOW, there will be no restriction. If it is DENY, we restrict the customer to proceed further. If it is CHALLENGE, we will allow the customer to proceed further process with some restriction
+
+- **VERIFICATION CHANGES**
+
+  *Struts 1.x, EJB, SOAP Web services, Weblogic12C.*
+
+As per BRD, modified the verification process and also added the new feature for offline banking system (PHONE BANKING). Levels of verification are grouped and converted as three level verification namely LOW RISK, HIGH RISK, and SUPER HIGH RISK. If a customer request us to transfer his funds, it should be done with high risk or super risk and should not be LOW RISK. OTP verification feature is added in SUPER HIGH RISK level
+
+- **TNC Maintenance Tool(Content Management Tool)**
+
+  *Java/J2EE, Struts 1.x, Struts2, Hibernate, Weblogic12C.*
+
+TNC is a standalone tool. This tool help us to maintain static text in Citibank online. Here we migrated this tool from struts 1.x to struts 2.x. This tool is working based on two criteria (MAKER, AUTH). For every message/contents they maintain a unique TNC id. To make use of these contents in various files we require this TNC id. Because this Id plays a major role. If the MAKER create/modify the content, it will affect the table Work Bean. Once the Maker finish his changes, AUTH will have a control. AUTH is responsible to verify the presence of data in Master Bean. If the data already present, It automatically move that particular data to History Bean. Now it will do the new change of moving the data from Work Bean to Master Bean
+
+- **SLS (service logging system)**
+
+  *Java/J2EE, Struts 1.x, EJB, Weblogic12C.*
+
+This service logging system is used internally for tracking the bugs. For e.g. if citi phone officer finds the bug, he need to raise it as a bug and assign it to the respective teams. The team heads validates the bug and assign it to the respective resource, he is responsible for resolving and closing the bug. Based on the BRD, new features like grouping of teams, target date etc. are added
+
+- **SNAPSHOT**
+
+  *Java/J2EE, Weblogic12C*
+
+It is an ADDON which helps the customer to see his Account Summary without his credentials but by one time registration. We handled 6 various cases during Registration.
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
