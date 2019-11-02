@@ -21,7 +21,7 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
 
  - Male, born in 1989
- - Role: Senior Software Engineer
+ - Role: Associate Consultant
  - Work experience: 7+ years
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
@@ -30,11 +30,10 @@
 - Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
 - SSLC, P.A.C.M School 75%, 2004
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> Work experience
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
+- Working as Associate Consultant at Virtusa | Polaris.
+- Previously worked at Ebullitent Info Systems LLP.
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
