@@ -79,7 +79,7 @@ It is an ADDON which helps the customer to see his Account Summary without his c
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
 
-- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2018
+- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2010
 - Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
 - SSLC, P.A.C.M School 75%, 2004
 
