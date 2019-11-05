@@ -21,17 +21,21 @@
  - Male, born in 1989
  - Role: Associate Consultant
  - Work experience: 7+ years
-
-## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
-
-- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2018
-- Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
-- SSLC, P.A.C.M School 75%, 2004
-
-## <img src="assets/briefcase-solid.svg" width="30px"> Work experience
+ 
+ ## <img src="assets/briefcase-solid.svg" width="30px"> Work experience
 
 - Working as Associate Consultant at Virtusa | Polaris.
 - Previously worked at Ebullitent Info Systems LLP.
+ 
+ ## <img src="assets/tools-solid.svg" width="30px"> Skill list
+
+- ★★★ Java, J2EE
+- ★★☆ Spring MVC, Spring AOP, Spring Boot, Spring Data, Hibernate, Mybatis
+- ★★★ SQL,PL-SQL
+- ★★★ JMS, Activemq
+- ★★☆ Tomcat, Weblogic, Websphere, JBoss
+- ★☆☆ AngularJS
+- ★★☆ JavaScript
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
@@ -71,12 +75,10 @@ This service logging system is used internally for tracking the bugs. For e.g. i
 
 It is an ADDON which helps the customer to see his Account Summary without his credentials but by one time registration. We handled 6 various cases during Registration.
 
-## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
-- ★★★ Java, J2EE
-- ★★☆ Spring MVC, Spring AOP, Spring Boot, Spring Data, Hibernate, Mybatis
-- ★★★ SQL,PL-SQL
-- ★★★ JMS, Activemq
-- ★★☆ Tomcat, Weblogic, Websphere, JBoss
-- ★☆☆ AngularJS
-- ★★☆ JavaScript
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
+
+- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2018
+- Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
+- SSLC, P.A.C.M School 75%, 2004
+
