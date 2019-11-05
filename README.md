@@ -35,6 +35,12 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
+- **CareDiscovery Electronic Quality Measures (CDeQM)**
+
+  *Java/J2EE, Spring, Mybatis, REST, Tomcat, IBM liberty*
+
+This system is used to analyse and detect the suspicious customer activities. At the time of customer login we took a following information e.g. device id, ip, geo locations etc., and these details need to be send to citi security systems team, where they already have a history of the customer’s geo location, device id, and IP. They will analyse the data and make a risk score. Based on the score we have to decide the following status (DENY, CHALLENGE, ALLOW). If the status is ALLOW, there will be no restriction. If it is DENY, we restrict the customer to proceed further. If it is CHALLENGE, we will allow the customer to proceed further process with some restriction
+
 - **SAD (suspicious activity detection)**
 
   *Java/J2EE, SOAP Web services, Weblogic12C*
