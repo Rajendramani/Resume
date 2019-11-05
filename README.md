@@ -43,7 +43,8 @@
 
   *Java/J2EE, Spring, Mybatis, REST, Tomcat, IBM liberty*
 
-This system is used to analyse and detect the suspicious customer activities. At the time of customer login we took a following information e.g. device id, ip, geo locations etc., and these details need to be send to citi security systems team, where they already have a history of the customer’s geo location, device id, and IP. They will analyse the data and make a risk score. Based on the score we have to decide the following status (DENY, CHALLENGE, ALLOW). If the status is ALLOW, there will be no restriction. If it is DENY, we restrict the customer to proceed further. If it is CHALLENGE, we will allow the customer to proceed further process with some restriction
+CDeQM provides a comprehensive data-submission manual that defines the data elements needed for calculation of eCQMs. CDeQM accepts patient data from disparate EHR systems and generates actionable insights. The solution assists hospitals in understanding data element definitions, associated value sets, and the likely sources where those data elements may be available within electronic systems. It also assists in performing a gap analysis to identify data elements that are not currently available in the EHR system.
+To overcome the challenges of eCQM submissions, CDeQM provides dedicated operations support to make submissions to the CMS and TJC on behalf of the hospital. Measuring and reporting eCQMs allows hospitals to deliver effective, safe, efficient, patient-centric, equitable and timely care
 
 - **SAD (suspicious activity detection)**
 
