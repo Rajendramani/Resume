@@ -1,8 +1,6 @@
 <center>
      <div>
-         <span>
-              <h1>Rajendramani R.<img align="right" width="100" height="100" src="assets/O_Java-SE-8-OCA-clr.gif"></h1>
-          </span>
+              <h1>Rajendramani R.</h1> <img align="right" width="90px" src="assets/O_Java-SE-8-OCA-clr.gif">
      </div>
      <div>
          <span>
