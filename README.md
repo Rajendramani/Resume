@@ -1,8 +1,8 @@
 <center>
      <div>
          <span>
-              <img src="assets/phone-solid.svg" width="18px"/>
               <h1>Rajendramani R.</h1>
+              <img src="assets/phone-solid.svg" width="18px"/>
           </span>
      </div>
      <div>
