@@ -1,5 +1,10 @@
 <center>
-     <div style="text-align:center"><img align="right" width="100" height="100" src="assets/O_Java-SE-8-OCA-clr.gif"></div>
+     <div>
+         <span>
+              <img src="assets/phone-solid.svg" width="18px"/>
+              <h1>Rajendramani R.</h1>
+          </span>
+     </div>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
