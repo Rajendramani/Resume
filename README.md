@@ -1,5 +1,5 @@
  <center>
-     <h1>Rajendramani R.</h1>                                                               <img src="assets/O_Java-SE-8-OCA-clr.gif">
+<h1>Rajendramani R.</h1>                  
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
