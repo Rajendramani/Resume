@@ -1,22 +1,12 @@
-<center>
-     <div>
-          <p><h1>Rajendramani R.</h1> <img align="right" width="90px" src="assets/O_Java-SE-8-OCA-clr.gif"></p>
-     </div>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             +91 99XXXXX991
-         </span>
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             rajendramani.r@gmail.com
-         </span>
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/Rajendramani">Rajendramani</a>
-         </span>
-     </div>
- </center>
+<left>
+<p><h1>Rajendramani R. <img align="right" width="200px" src="assets/O_Java-SE-8-OCA-clr.gif"></h1> </p>
+<div>
+         
+<span> <img src="assets/phone-solid.svg" width="18px"> +91 9944844991 </span> · 
+<span> <img src="assets/envelope-solid.svg" width="18px"> rajendramani.r@gmail.com </span> · 
+<span> <img src="assets/github-brands.svg" width="18px"> <a href="https://github.com/Rajendramani">Rajendramani</a> </span>
+</div>
+ </left>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
 
